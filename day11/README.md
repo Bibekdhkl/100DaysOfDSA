@@ -7,7 +7,7 @@ Interesting Article I read today about using Notion to organise Programming topi
 <i>Here, I have taken notes from the letures I watch</i> <br>
 
 - Main Memory is divided into 3 section i.e. code section, stack and heap
--heap memory is external to the program so for that to access we need pointer example if we want to access a file from hard disk then we need a pointer for accessing such file. So pointers are used for:
+- heap memory is external to the program so for that to access we need pointer example if we want to access a file from hard disk then we need a pointer for accessing such file. So pointers are used for:
 	1. Accessing Heap
 	2. Accessing other resources
 	3. Parameter Passing
